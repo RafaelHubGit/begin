@@ -1,0 +1,17 @@
+{
+  "name": "begin",
+  "version": "1.0.0",
+  "description": "BackEnd Begin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Nava",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}
